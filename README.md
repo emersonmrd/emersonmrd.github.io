@@ -1,10 +1,9 @@
 # Página para exibição dos meus projetos. 🤖🔧💻🛠️
 
-### Pessoal aqui estão os projetos que trabalhei durante os meus estudos. 📚✍🏻👩🏻‍💻💡
+### Projetos que trabalhei durante os meus estudos de Web development. 📚✍🏻👩🏻‍💻💡
 
 * [projeto-android](https://emersonmrd.github.io/projeto-android/)
 * [projeto-cordel](https://emersonmrd.github.io/projeto-cordel/)
-* [projeto-social](https://emersonmrd.github.io/projeto-social/)
 * [projeto-login](https://emersonmrd.github.io/projeto-login/)
 * [projeto-site](https://emersonmrd.github.io/projeto-site/)
 
